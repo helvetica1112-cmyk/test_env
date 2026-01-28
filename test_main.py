@@ -1,3 +1,5 @@
 import main 
 
-main.void_prinnf()
+def test_funf():
+    main.void_prinnf()
+    assert True
